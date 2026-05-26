@@ -4,6 +4,7 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "runs-on": "ubuntu-latest",
   "artifact": "/sandbox/28.0.0.0//closest",
+  "githubRunner": "self-hosted",
   "projects": [
     ".ALGoProjects/w1",
     ".ALGoProjects/de"
